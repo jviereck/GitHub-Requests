@@ -13,6 +13,10 @@ Improve GitHub, because we <3 GitHub. We want to make it better. But it's closed
 
 …. and hope our ideas will be heard and will be implement and will live a lovely life on the nice servers of GitHub Land.
 
-# Fill an issue
+# Fill an Issue
 
 If you have an idea that could make GitHub better, please open an issue and drop in an image if you can.
+
+# Create a Spike
+
+If you already have an imagination of what your idea could look like then save the GitHub page you want to improve to disk, modify it and make a PR agains this repo.
