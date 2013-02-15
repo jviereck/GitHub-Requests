@@ -11,7 +11,7 @@ Improve GitHub, because we <3 GitHub. We want to make it better. But it's closed
 - have discussions using GitHub issues and iterate on ideas that way
 - make UI/UX spikes by saving their web page to disk, hack it and make a PR against this repo - because that's what the __web__ is all about (and because we can)
 
-…. and hope our ideas will be heard and will be implement and will live a lovely life on the nice servers of GitHub land.
+…. and hope our ideas will be heard and will be implement and will live a lovely life on the nice servers of GitHub Land.
 
 # Fill an issue
 
