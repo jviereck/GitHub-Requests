@@ -3,11 +3,6 @@ GitHub-Requests
 
 Collection of feature/bugs/API and other requests developers think that could make GitHub better.
 
-# What is this NOT about
-
-- not about bashing agains GitHub
-- not about proposing something in the sense they **need** to implement this or I'm pissed
-
 # What is this about
 
 Improve GitHub, because we <3 GitHub. We want to make it better. But it's closed source :(. So the only thing we can do is:
